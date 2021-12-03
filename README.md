@@ -1,23 +1,21 @@
 ## Hello, my name is Hericles!
 
-### Welcome to my Github profile
-
----
-
 <img align=right alt="Pixel Art Avatar" src="./avatar.png">
 
-## About me
+### About me
 
 <ul>
+    <li>😎 I'm 22 years old developer from Brazil 🇧🇷.</li>
     <li>🎓 I'm student of Computer Science at UFES</li>
     <li>📱 Currently I'm focused on learning more about mobile development.</li>
+    <li>📝 Learning Dart and the amazing Flutter 💜.</li>
     <li>📝 Learning Typescript and Javascript.</li>
     <li>⚛️ Interested in React Native.</li>
 </ul>
 
 ---
 
-## Languages
+### Languages:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40px" title="C"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/></code>
@@ -28,12 +26,12 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="Javascript"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="Typescript"/></code>
 
-## Frameworks
+### Frameworks:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" title="Flutter"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap"/></code>
 
-## Other
+### Other:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40px" title="Git"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40px" title="Linux"/></code>
@@ -45,7 +43,7 @@
 
 ---
 
-## Contact
+### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hericles_Koelher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Hericles%20Koelher&style=social&url=https%3A%2F%2Ftwitter.com%2FHericlesKoelher)](https://twitter.com/HericlesKoelher)
