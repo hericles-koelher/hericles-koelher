@@ -43,6 +43,16 @@
 
 ---
 
+### Statis
+
+<div>
+<a href="https://github.com/hericles-koelher">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericles-koelher&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericles-koelher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+    
 ### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hericles_Koelher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)
