@@ -43,7 +43,7 @@
 
 ---
 
-### Status
+### Stats
 
 <div>
 <a href="https://github.com/hericles-koelher">
