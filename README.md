@@ -9,7 +9,7 @@
     <li>🎓 I'm student of Computer Science at UFES</li>
     <li>📱 Currently I'm focused on learning more about mobile development.</li>
     <li>📝 Learning Dart and the amazing Flutter 💜.</li>
-    <li>📝 Learning Typescript and Javascript.</li>
+    <li>📝 Interested in Typescript and Javascript.</li>
     <li>⚛️ Interested in React Native.</li>
 </ul>
 
@@ -20,11 +20,12 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40px" title="C"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="Html"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="Css"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="Javascript"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40px" title="Dart"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="Typescript"/></code>
+<!-- Tenho muito pouco conhecimento nas linguagens comentadas, por isso optei por deixa-las assim -->
+<!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="Html"/></code> -->
+<!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="Css"/></code> -->
+<!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="Javascript"/></code> -->
+<!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" title="Typescript"/></code> -->
 
 ### Frameworks:
 
