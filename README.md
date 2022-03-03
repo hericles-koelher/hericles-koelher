@@ -9,8 +9,8 @@
     <li>🎓 I'm student of Computer Science at UFES</li>
     <li>📱 Currently I'm focused on learning more about mobile development.</li>
     <li>📝 Learning Dart and the amazing Flutter 💜.</li>
-    <li>📝 Interested in Typescript and Javascript.</li>
-    <li>⚛️ Interested in React Native.</li>
+<!--     <li>📝 Interested in Typescript and Javascript.</li> -->
+<!--     <li>⚛️ Interested in React Native.</li> -->
 </ul>
 
 ---
@@ -29,22 +29,20 @@
 
 ### Frameworks:
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap"/></code>
+<!-- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap"/></code> -->
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" title="Flutter"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px" title="Spring"/></code>
 
 ### Other:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40px" title="Linux"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width="40px" title="Android"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40px" title="Github"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  width="40px" title="Gitlab"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40px" title="MYSQL"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="40px" title="Postgre SQL"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"  width="40px" title="Vim"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  width="40px" title="Intellij"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40px" title="VsCode"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40px" title="Figma"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40px" title="Firebase"/></code>
 
 ---
 
@@ -52,7 +50,6 @@
 
 <div>
 <a href="https://github.com/hericles-koelher">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericles-koelher&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericles-koelher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
