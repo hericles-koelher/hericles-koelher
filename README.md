@@ -6,9 +6,10 @@
 
 <ul>
     <li>😎 I'm 22 years old developer from Brazil 🇧🇷.</li>
-    <li>🎓 I'm student of Computer Science at UFES</li>
+    <li>🎓 I'm student of Computer Science at <a href="https://www.ufes.br/">UFES</a></li>
     <li>📱 Currently I'm focused on learning more about mobile development.</li>
     <li>📝 Learning Dart and the amazing Flutter 💜.</li>
+    <li>📝 Learning Java and Spring Boot.</li>
 <!--     <li>📝 Interested in Typescript and Javascript.</li> -->
 <!--     <li>⚛️ Interested in React Native.</li> -->
 </ul>
@@ -50,12 +51,15 @@
 
 <div>
 <a href="https://github.com/hericles-koelher">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericles-koelher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericles-koelher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
 
 ---
     
 ### Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hericles_Koelher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)
-[![Twitter Badge](https://img.shields.io/twitter/url?label=Hericles%20Koelher&style=social&url=https%3A%2F%2Ftwitter.com%2FHericlesKoelher)](https://twitter.com/HericlesKoelher)
+[![Linkedin Badge](https://img.shields.io/badge/-Hericles%20Koelher-yellow?style=social&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)
+
+[![Email Badge](https://img.shields.io/badge/-brunokoelher@hotmail.com-yellow?style=social&logo=microsoftoutlook&logoColor=0078D4&link="mailto:brunokoelher@hotmail.com")](mailto:brunokoelher@hotmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-@HericlesKoelher-grey?style=social&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/HericlesKoelher)](https://twitter.com/HericlesKoelher)
