@@ -46,15 +46,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40px" title="Firebase"/></code>
 
 ---
-
-### Stats
-
-<div>
-<a href="https://github.com/hericles-koelher">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericles-koelher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-</div>
-
----
     
 ### Contact
 
