@@ -5,10 +5,11 @@
 ### About me
 
 <ul>
-    <li>😎 I'm 22 years old developer from Brazil 🇧🇷.</li>
+    <li>😎 I'm 23 years old developer from Brazil.</li>
     <li>🎓 I'm student of Computer Science at <a href="https://www.ufes.br/">UFES</a></li>
     <li>📱 Currently I'm focused on learning more about mobile development.</li>
     <li>📝 Learning Dart and the amazing Flutter 💜.</li>
+    <li>📝 Learning Android with Java.</li>
     <li>📝 Learning Java and Spring Boot.</li>
 <!--     <li>📝 Interested in Typescript and Javascript.</li> -->
 <!--     <li>⚛️ Interested in React Native.</li> -->
@@ -37,6 +38,7 @@
 ### Other:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40px" title="Linux"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40px" title="Android"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40px" title="Github"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  width="40px" title="Gitlab"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40px" title="MYSQL"/></code>
