@@ -4,6 +4,7 @@
 
 <ul>
     <li>😎 I'm a 26-year-old developer from Brazil.</li>
+    <li>🧩 I'm a 3D printing enthusiast.</li>
     <li>🎓 I have a degree in Computer Science from <a href="https://www.ufes.br/">UFES</a></li>
     <li>📝 Experienced with Spring Boot</li>
     <li>📝 Experienced with Flutter</li>
