@@ -7,8 +7,8 @@
     <li>🎓 I have a degree in Computer Science from <a href="https://www.ufes.br/">UFES</a></li>
     <li>📝 Experienced with Spring Boot</li>
     <li>📝 Experienced with Flutter</li>
-    <li>📝 Experienced with Express.js and NestJS frameworks.</li>
-    <li>💻 Currently, I'm focused on backend development with Node.js ecosystem technologies.</li>
+    <li>📝 Experienced with Express.js, Fastify and NestJS frameworks.</li>
+    <li>💻 Currently, I'm focused on backend development with AWS and Node.js ecosystem technologies.</li>
 </ul>
 
 ---
@@ -27,6 +27,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" title="Flutter"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px" title="Spring"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" title="Express.js"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="40px" title="Fastify"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40px" title="NestJS"/></code>
 
 ### Other:
