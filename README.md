@@ -1,13 +1,12 @@
-## Hello, my name is Hericles!
-
+## Hi, I'm Hericles! 👋
 ### About me
 
 <ul>
-    <li>😎 I'm a 26-year-old developer from Brazil.</li>
+    <li>😎 I'm a backend developer from Brazil.</li>
     <li>🧩 I'm a 3D printing enthusiast.</li>
     <li>🎓 I have a degree in Computer Science from <a href="https://www.ufes.br/">UFES</a></li>
     <li>📝 Experienced with Spring Boot</li>
-    <li>📝 Experienced with Flutter</li>
+    <li>📝 Experienced with Mobile Technologies, like Android (native) and Flutter</li>
     <li>📝 Experienced with Express.js, Fastify and NestJS frameworks.</li>
     <li>💻 Currently, I'm focused on backend development with AWS and Node.js ecosystem technologies.</li>
 </ul>
@@ -33,6 +32,9 @@
 
 ### Other:
 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" alt="Node.js" title="Node.js"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" alt="AWS" title="AWS"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px" alt="Kubernetes" title="Kubernetes"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40px" title="Android"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40px" title="GitHub"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40px" title="MySQL"/></code>
@@ -41,14 +43,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40px" title="Figma"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40px" title="Firebase"/></code>
 
-### Stats:
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hericles-koelher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=hericles-koelher&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&rank=-C,-B,-?" height="150" alt="trophy graph"  />
-</div>
 
 ---
 
