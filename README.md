@@ -3,12 +3,11 @@
 
 <ul>
     <li>😎 I'm a backend developer from Brazil.</li>
-    <li>🧩 I'm a 3D printing enthusiast.</li>
+    <li>💻 My current focus is on Node.js, TypeScript, and serverless development on AWS.</li>
     <li>🎓 I have a degree in Computer Science from <a href="https://www.ufes.br/">UFES</a></li>
-    <li>📝 Experienced with Spring Boot</li>
-    <li>📝 Experienced with Mobile Technologies, like Android (native) and Flutter</li>
     <li>📝 Experienced with Express.js, Fastify and NestJS frameworks.</li>
-    <li>💻 Currently, I'm focused on backend development with AWS and Node.js ecosystem technologies.</li>
+    <li>📝 Experienced with Mobile Technologies, like Android (native) and Flutter</li>
+    <li>🧩 I'm a 3D printing enthusiast.</li>
 </ul>
 
 ---
