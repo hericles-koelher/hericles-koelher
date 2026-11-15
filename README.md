@@ -1,7 +1,5 @@
 ## Hi, I'm Hericles! 👋
 
-[Meu site profissional](https://hericles-koelher.github.io/) — landing pages, sites institucionais e pequenos sistemas.
-
 ### About me
 
 <ul>
@@ -11,6 +9,7 @@
     <li>📝 Experienced with Express.js, Fastify and NestJS frameworks.</li>
     <li>📝 Experienced with Mobile Technologies, like Android (native) and Flutter</li>
     <li>🧩 I'm a 3D printing enthusiast.</li>
+    <li>🌐 Visit my <a href="https://hericles-koelher.github.io/">professional website</a> for landing pages, business websites, and small custom web applications.</li>
 </ul>
 
 ---
