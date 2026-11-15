@@ -1,4 +1,7 @@
 ## Hi, I'm Hericles! 👋
+
+[Meu site profissional](https://hericles-koelher.github.io/) — landing pages, sites institucionais e pequenos sistemas.
+
 ### About me
 
 <ul>
@@ -49,4 +52,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Hericles%20Koelher-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)](https://www.linkedin.com/in/hericles-bruno-quaresma-koelher-9a2021209)
 
-[![Email Badge](https://img.shields.io/badge/Email-brunokoelher@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brunokoelher@hotmail.com)](mailto:brunokoelher@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-contato.hericleskoelher@outlook.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:contato.hericleskoelher@outlook.com)](mailto:contato.hericleskoelher@outlook.com)
